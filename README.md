@@ -6,5 +6,6 @@ alert()
 '''
 
 projekt git
--ahojkz
--cus
+
+- ahojkz
+- cus
