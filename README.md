@@ -1,6 +1,6 @@
 # pg4-24-projekt1
-##ouje
+## ouje
 '''js
-alert(prdel)
+alert()
 '''
 projekt git
