@@ -10,3 +10,5 @@ projekt git
 - ahojkz
 - cus
 - treti
+- ctvrty
+-5
