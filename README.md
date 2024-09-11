@@ -12,3 +12,5 @@ projekt git
 - treti
 - ctvrty
 -5
+
+- 6
